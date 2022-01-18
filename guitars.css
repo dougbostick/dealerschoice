@@ -1,0 +1,58 @@
+body {
+    background-color: lightskyblue;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+h1 {
+    text-align: center;
+    width: 265px;
+    border: 10px rgb(139, 86, 16) inset;
+    color: silver;
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.guitar {
+    border: 10px rgb(139, 86, 16) inset;
+    width: 150px;
+    padding: 10px;
+    color: silver;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+p{
+    color: white;
+    float:right;
+    width: 80%;
+    background-color: grey;
+    opacity: 75%;
+    margin: 10px
+}
+
+.section {
+margin: 10px;
+
+}
+
+img{
+    width: 150px;
+    border:rgb(139, 86, 16) inset 5px
+}
+
+#jimi{
+    position: fixed;
+    right:0;
+    bottom:0;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -1;
+}
+
+.line{
+    opacity: 50%;
+}
+
+
